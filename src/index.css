@@ -1,0 +1,15 @@
+.pumpinkContainer {
+background-color: orange;
+border-radius: 25px;
+color: purple;
+}
+
+.pumpkinButton {
+    background-color: purple;
+    color: white;
+}
+
+.pumpkinButton:hover {
+background-color: greenyellow;
+}
+
